@@ -4,7 +4,7 @@
 // @version      0.1
 // @description  Automatically choose Cibus payment method in Wolt and turns off the "Use Wolt Credits" Toggle
 // @author       bengry
-// @match        https://wolt.com/*/checkout
+// @match        https://wolt.com/**/checkout
 // @license      MIT
 // @grant        none
 // ==/UserScript==
